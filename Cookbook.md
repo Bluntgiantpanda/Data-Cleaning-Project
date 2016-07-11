@@ -1,5 +1,5 @@
 # Code Book
-This code book describes the variables in the `tidy.txt`.
+ This code book describes the variables in the `tidy.txt`.
 
 After we finished the data cleaning process as required in the final project, there are 180 variables in the `tidy.txt`. These variable contains the average of each variable in the cleaning dataset for each activity and each subject. Each variables have 79 observations.
 
